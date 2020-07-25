@@ -12,6 +12,6 @@ Q3LotterySeq.java和Q3LotterySeq.class是第三个问题的解答；
 Q4ArrayEnlarge.java和Q4ArrayEnlarge.class是第四个问题的解答；
 Q5ChessBoard.java和Q5ChessBoard.class是第五个问题的解答。
 
-FunctionalVisualization是一个作业编程功能实现的记录
+FunctionDescription是一个作业编程功能实现的记录
 
-screen_recording_description 是讲解视频
+ThinkingProcessPart1,2, and 3 是讲解视频
